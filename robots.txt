@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://retatrutidecostarica.github.io/retatrutidecostarica/sitemap.xml
